@@ -34,7 +34,7 @@
             gap: 1.5rem;
         }
         label {
-            font-size: 1.1rem;
+            font-size: 1.5rem;
         }
         input, select {
             padding: 0.7rem;

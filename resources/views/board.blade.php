@@ -48,7 +48,7 @@
         }
 
         .hero img {
-            width: 60%;
+            width: 40%;
             max-width: 400px;
         }
 
@@ -59,13 +59,13 @@
         }
 
         .hero p {
-            font-size: 1.2rem;
+            font-size: 1.7rem;
             opacity: 0.8;
             margin-bottom: 2rem;
         }
 
         .content h2 {
-            font-size: 2rem;
+            font-size: 2.5rem;
             margin-bottom: 1rem;
         }
 
@@ -78,17 +78,17 @@
         }
 
         .content p {
-            font-size: 1.1rem;
+            font-size: 1.5rem;
             opacity: 0.8;
             line-height: 1.6;
         }
 
         .sacred-candle {
             position: absolute;
-            top: -34%;
-            right: -10px;
+            top: -22%;
+            right: -7px;
             z-index: -1;
-            width: 25%;
+            width: 20%;
             max-width: 150px;
         }
 
@@ -131,11 +131,11 @@
 
         @media (min-width: 768px) {
             .hero h1 {
-                font-size: 3rem;
+                font-size: 3.5rem;
             }
 
             .content h2 {
-                font-size: 2rem;
+                font-size: 2.5rem;
             }
         }
     </style>

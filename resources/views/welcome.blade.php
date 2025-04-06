@@ -49,7 +49,7 @@
         }
 
         header p {
-            font-size: 1.2rem;
+            font-size: 1.7rem;
             opacity: 0.8;
             margin-bottom: 2rem;
             max-width: 90%;
@@ -82,12 +82,12 @@
         }
 
         .intro h2, .about h2 {
-            font-size: 2rem;
+            font-size: 2.5rem;
             margin-bottom: 1rem;
         }
 
         .intro p, .about p {
-            font-size: 1.1rem;
+            font-size: 1.5rem;
             opacity: 0.8;
             line-height: 1.6;
             max-width: 90%;
@@ -162,10 +162,10 @@
 
         @media (min-width: 768px) {
             header h1 {
-                font-size: 3rem;
+                font-size: 3.5rem;
             }
             .intro h2, .about h2, .product h3 {
-                font-size: 2rem;
+                font-size: 2.5rem;
             }
             .product .img-board {
                 top: -67px;

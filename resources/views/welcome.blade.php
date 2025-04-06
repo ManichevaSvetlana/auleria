@@ -6,6 +6,9 @@
     <title>AULERIA — Light Within</title>
 
     <!-- SEO -->
+    <link rel="icon" href="/img/fav.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/img/fav.ico" type="image/x-icon">
+
     <meta name="description" content="AULERIA — Sacred artifacts hand-crafted in places of ancient power, aligned with the stars. Board of Destiny and Body Amulets born from earth and breath.">
     <meta name="keywords" content="AULERIA, sacred artifacts, Board of Destiny, Body Amulets, spiritual jewelry, handmade, mystical gifts">
     <meta name="author" content="AULERIA">

@@ -6,13 +6,16 @@
     <title>Body Amulets — AULERIA</title>
 
     <!-- SEO -->
+    <link rel="icon" href="/img/fav.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/img/fav.ico" type="image/x-icon">
+
     <meta name="description" content="Body Amulets by AULERIA — sacred jewelry crafted from clay, gold, and birth stones to protect your path and spirit.">
     <meta name="keywords" content="Body Amulets, sacred jewelry, spiritual protection, AULERIA, earrings, bracelet, pendant">
     <meta name="author" content="AULERIA">
     <link rel="canonical" href="https://auleria.com/product/body-amulets" />
     <meta property="og:title" content="Body Amulets — AULERIA">
     <meta property="og:description" content="Sacred amulets carrying the voice of stars and the breath of Earth. Personalized protection for your soul.">
-    <meta property="og:image" content="https://auleria.com/images/amulets.jpg">
+    <meta property="og:image" content="https://auleria.com/img/amulets-ear.png">
     <meta property="og:url" content="https://auleria.com/product/body-amulets">
     <meta property="og:type" content="product">
 
@@ -31,7 +34,7 @@
         }
 
         section {
-            padding-bottom: 5vh;
+            padding-bottom: 1vh;
         }
 
         .hero {
@@ -121,11 +124,11 @@
 
         @media (min-width: 768px) {
             .hero h1 {
-                font-size: 4rem;
+                font-size: 3rem;
             }
 
             .content h2 {
-                font-size: 4rem;
+                font-size: 2rem;
             }
         }
     </style>
@@ -153,23 +156,23 @@
             <h3>Sacred Earrings</h3>
             <p>Lightweight guardians close to the mind and heart, protecting your thoughts and emotions.</p>
             <div class="price">4,000 $</div>
-            <a href="/product/earrings">Learn More</a>
-        </div>
-
-        <div class="product">
-            <img src="/img/amulets-braslet.png" alt="Sacred Bracelet">
-            <h3>Sacred Bracelet</h3>
-            <p>A circle of protection strengthening your actions and shielding your will.</p>
-            <div class="price">4,000 $</div>
-            <a href="/product/bracelet">Learn More</a>
+            <a href="/request?product=earrings">Leave Request</a>
         </div>
 
         <div class="product">
             <img src="/img/amulets-kulon.png" alt="Sacred Pendant">
             <h3>Sacred Pendant</h3>
             <p>Worn over the heart, it anchors your soul to its true calling and guards your essence.</p>
-            <div class="price">4,000 $</div>
-            <a href="/product/pendant">Learn More</a>
+            <div class="price">7,000 $</div>
+            <a href="/request?product=pendant">Leave Request</a>
+        </div>
+
+        <div class="product">
+            <img src="/img/amulets-braslet.png" alt="Sacred Bracelet">
+            <h3>Sacred Bracelet</h3>
+            <p>A circle of protection strengthening your actions and shielding your will.</p>
+            <div class="price">5,000 $</div>
+            <a href="/request?product=bracelet">Leave Request</a>
         </div>
     </div>
 

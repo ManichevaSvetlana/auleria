@@ -6,6 +6,9 @@
     <title>Board of Destiny — AULERIA</title>
 
     <!-- SEO -->
+    <link rel="icon" href="/img/fav.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/img/fav.ico" type="image/x-icon">
+
     <meta name="description" content="Board of Destiny by AULERIA — a sacred guardian, sealing your highest destiny and protecting your lineage through the elements of earth, breath, and stars.">
     <meta name="keywords" content="Board of Destiny, sacred protection, destiny guardian, family amulet, AULERIA, spiritual artifact, energy cleansing, karma protection">
     <meta name="author" content="AULERIA">
@@ -178,7 +181,7 @@
 
 
 <section class="cta">
-    <a href="/order/board-of-destiny">Begin Your Awakening</a>
+    <a href="/request?product=board">Begin Your Awakening</a>
 </section>
 
 <footer>
